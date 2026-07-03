@@ -19,9 +19,9 @@
   - Schedule a meeting by selecting a date
   - Schedule a meeting using New meeting
   - Set date, duration, recurrence, and description
+- Advanced Meeting Options
 - Troubleshooting
 - Best Practices
-- Reference
 - FAQs
 
 ---
@@ -94,6 +94,19 @@ You can also start scheduling directly, without first selecting a date on the ca
 4. In the **Details** or **Description** field, enter agenda notes or context for the meeting.
 5. Select **Save** to schedule the meeting with these settings.
 
+
+## Advanced meeting options
+
+Select **Meeting options** in the scheduling form to configure the following settings:
+
+| Option | What it controls |
+|---|---|
+| **Who can bypass the lobby** | Choose whether people with a specific email domain, **Everyone**, or **Only me** can join directly without waiting in the lobby. |
+| **Mic and camera for attendees** | Turn attendee audio and video on or off by default when they join. |
+| **Who can present** | Assign presenter roles so only selected people can share content or control the meeting. |
+
+> **Important:** A few advanced options — such as certain lobby and presenter controls — are available only on an upgraded Teams account. If an option is unavailable, verify your account tier.
+
 ## Troubleshooting
 
 - **Cannot find New meeting:** Confirm you are on the **Calendar** tab, not **Chat** or **Teams**.
@@ -107,19 +120,6 @@ You can also start scheduling directly, without first selecting a date on the ca
 - Review lobby and presenter settings before sending sensitive or external meetings.
 - Double-check attendee email addresses before saving the invite.
 
-## Reference
-
-### Advanced meeting options
-
-Select **Meeting options** in the scheduling form to configure the following settings:
-
-| Option | What it controls |
-|---|---|
-| **Who can bypass the lobby** | Choose whether people with a specific email domain, **Everyone**, or **Only me** can join directly without waiting in the lobby. |
-| **Mic and camera for attendees** | Turn attendee audio and video on or off by default when they join. |
-| **Who can present** | Assign presenter roles so only selected people can share content or control the meeting. |
-
-> **Important:** A few advanced options — such as certain lobby and presenter controls — are available only on an upgraded Teams account. If an option is unavailable, verify your account tier.
 
 ## FAQs
 
