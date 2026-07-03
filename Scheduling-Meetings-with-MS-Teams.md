@@ -6,23 +6,23 @@
 
 ## Copyright
 
-© 2026 Tech Writer's Tribe. All rights reserved.
+©copyrights@2026 Tech Writer's Tribe. All rights reserved.
 
 ---
 
 ## Table of Contents
 
-- Overview
-- Prerequisites
-- Scheduling
-  - Sign in to Teams and navigate to Calendar
-  - Schedule a meeting by selecting a date
-  - Schedule a meeting using New meeting
-  - Set date, duration, recurrence, and description
-- Advanced Meeting Options
-- Troubleshooting
-- Best Practices
-- FAQs
+1 Overview
+2 Prerequisites
+3 Scheduling
+  3.1 Sign in to Teams and navigate to Calendar
+  3.2 Schedule a meeting by selecting a date
+  3.3 Schedule a meeting using New meeting
+  3.4 Set date, duration, recurrence, and description
+4 Advanced Meeting Options
+5 Troubleshooting
+6 Best Practices
+7 FAQs
 
 ---
 
