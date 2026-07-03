@@ -14,7 +14,7 @@
 
 1. [Overview](#overview)
 2. [Prerequisites](#prerequisites)
-3. [Scheduling](#scheduling)
+3. [Scheduling Meeting](#scheduling-meeting)
    1. [Sign in to Teams and navigate to Calendar](#31-sign-in-to-teams-and-navigate-to-calendar)
    2. [Schedule a meeting by selecting a date](#32-schedule-a-meeting-by-selecting-a-date)
    3. [Schedule a meeting using New meeting](#33-schedule-a-meeting-using-new-meeting)
@@ -50,7 +50,7 @@ Before you begin, confirm the following:
 
 > **Note:** Some advanced meeting options described in this guide require an upgraded Teams account. See the Reference section for details.
 
-## Scheduling
+## Scheduling Meeting
 
 Use Teams to schedule a meeting in a few different ways. You can pick a date directly from your calendar, or start from the New meeting option. Once the meeting form is open, set the date, duration, and recurrence, and add a description so attendees know what to expect.
 
