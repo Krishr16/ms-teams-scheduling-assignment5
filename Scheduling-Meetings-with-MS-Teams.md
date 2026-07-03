@@ -1,3 +1,7 @@
+![Ms Teams logo](../ms-teams-scheduling-assignment5/MS%20teams%20logo.png)
+
+---
+
 # Scheduling Meetings with MS Teams
 
 *For Technical Documentation Team*
