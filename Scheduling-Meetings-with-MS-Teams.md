@@ -12,7 +12,7 @@
 
 ## Table of Contents
 
-1 Overview
+1. Overview
 2 Prerequisites
 3 Scheduling
   3.1 Sign in to Teams and navigate to Calendar
