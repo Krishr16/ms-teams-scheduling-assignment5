@@ -13,8 +13,8 @@
 ## Table of Contents
 
 1. Overview
-2 Prerequisites
-3 Scheduling
+2. Prerequisites
+3.  Scheduling
   3.1 Sign in to Teams and navigate to Calendar
   3.2 Schedule a meeting by selecting a date
   3.3 Schedule a meeting using New meeting
