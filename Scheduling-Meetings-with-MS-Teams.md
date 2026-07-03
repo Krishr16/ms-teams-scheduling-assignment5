@@ -12,18 +12,17 @@
 
 ## Table of Contents
 
-1. Overview
-2. Prerequisites
-3. Scheduling
-   Sign in to Teams and navigate to Calendar
-   Schedule a meeting by selecting a date
-   Schedule a meeting using New meeting
-   Set date, duration, recurrence, and description
-5. Advanced Meeting Options
-6. Troubleshooting
-7. Best Practices
-8. FAQs
-
+1. [Overview](#overview)
+2. [Prerequisites](#prerequisites)
+3. [Scheduling](#scheduling)
+   1. [Sign in to Teams and navigate to Calendar](#31-sign-in-to-teams-and-navigate-to-calendar)
+   2. [Schedule a meeting by selecting a date](#32-schedule-a-meeting-by-selecting-a-date)
+   3. [Schedule a meeting using New meeting](#33-schedule-a-meeting-using-new-meeting)
+   4. [Set date, duration, recurrence, and description](#34-set-date-duration-recurrence-and-description)
+4. [Advance Options](#advance-options)
+5. [Troubleshooting](#troubleshooting)
+6. [Best Practices](#best-practices)
+7. [FAQs](#faqs)
 ---
 
 ## Overview
