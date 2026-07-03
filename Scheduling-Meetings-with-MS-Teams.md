@@ -15,8 +15,8 @@
 1. Overview
 2. Prerequisites
 3. Scheduling
-   3.1. Sign in to Teams and navigate to Calendar
-   3.2. Schedule a meeting by selecting a date
+   3.1.Sign in to Teams and navigate to Calendar
+   3.2.Schedule a meeting by selecting a date
    3.3. Schedule a meeting using New meeting
    3.4. Set date, duration, recurrence, and description
 4. Advanced Meeting Options
