@@ -97,7 +97,7 @@ Select **Meeting options** in the scheduling form to configure the following set
 | **Mic and camera for attendees** | Turn attendee audio and video on or off by default when they join. |
 | **Who can present** | Assign presenter roles so only selected people can share content or control the meeting. |
 
-> **Important:** A few advanced options — such as certain lobby and presenter controls — are available only on an upgraded Teams account. If an option is unavailable, verify your account tier.
+> **Important:** A few advanced options such as certain lobby and presenter controls are available only on an upgraded Teams account. If an option is unavailable, verify your account tier.
 
 ## Troubleshooting
 
