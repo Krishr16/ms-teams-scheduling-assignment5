@@ -1,29 +1,19 @@
 # Scheduling Meetings with MS Teams
 
-*For Technical Documentation Team*
-
----
-
-## Copyright
-
-©copyrights@2026 Tech Writer's Tribe. All rights reserved.
-
----
-
 ## Table of Contents
 
 1. [Overview](#overview)
-2. [Prerequisites](#prerequisites)
-3. [Scheduling Meeting](#scheduling-meeting)
-   1. [Sign in to Teams and navigate to Calendar](#31-sign-in-to-teams-and-navigate-to-calendar)
-   2. [Schedule a meeting by selecting a date](#32-schedule-a-meeting-by-selecting-a-date)
-   3. [Schedule a meeting using New meeting](#33-schedule-a-meeting-using-new-meeting)
-   4. [Set date, duration, recurrence, and description](#34-set-date-duration-recurrence-and-description)
-4. [Advance Options](#advance-options)
-5. [Troubleshooting](#troubleshooting)
-6. [Best Practices](#best-practices)
-7. [FAQs](#faqs)
----
+2. [Key features](#key-features)
+3. [Prerequisites](#prerequisites)
+4. [Scheduling Meeting](#scheduling-meeting)
+   1. [Sign in to Teams and navigate to Calendar](#sign-in-to-teams-and-navigate-to-calendar)
+   2. [Schedule a meeting by selecting a date](#schedule-a-meeting-by-selecting-a-date)
+   3. [Schedule a meeting using New meeting](#schedule-a-meeting-using-new-meeting)
+   4. [Set date, duration, recurrence, and description](#set-date-duration-recurrence-and-description)
+5. [Advanced Meeting Options](#advanced-meeting-options)
+6. [Troubleshooting](#troubleshooting)
+7. [Best Practices](#best-practices)
+
 
 ## Overview
 
@@ -33,12 +23,15 @@ This guide introduces how to schedule a meeting in Teams for the first time.
 
 Scheduling a meeting in Teams lets you set a title, add participants, choose a date and duration, set up recurrence, and add a description.
 
-Key features covered in this guide:
+## Key features
+Scheduling a meeting in Teams brings together everything needed to set up and control a meeting in one form:
+ - **Flexible starting points** — schedule from the calendar or from **New meeting**.
+ - **Custom duration** — set a start and end time for the meeting.
+ - **Recurrence patterns** — repeat a meeting daily, weekly, monthly, every weekday, or on a custom schedule.
+ - **Attendee invites** — add participants by email.
+ - **Meeting context** — include a description or agenda so attendees know what to expect.
+ - **Pre-meeting controls** — configure options such as lobby access, mic/camera defaults, and presenter permissions before the meeting starts.
 
-- Signing in to Teams
-- Scheduling a meeting from a date or from **New meeting**
-- Setting duration and recurrence (daily, weekly, monthly, weekdays, or custom)
-- Adding a meeting description
 
 ## Prerequisites
 
@@ -94,7 +87,7 @@ You can also start scheduling directly, without first selecting a date on the ca
 5. Select **Save** to schedule the meeting with these settings.
 
 
-## Advanced meeting options
+## Advanced Meeting Options
 
 Select **Meeting options** in the scheduling form to configure the following settings:
 
@@ -119,14 +112,3 @@ Select **Meeting options** in the scheduling form to configure the following set
 - Review lobby and presenter settings before sending sensitive or external meetings.
 - Double-check attendee email addresses before saving the invite.
 
-
-## FAQs
-
-**Can you schedule a meeting without using New meeting?**
-Yes. Select any date and time slot directly on the calendar to open the scheduling form.
-
-**Can you change the meeting duration after scheduling it?**
-Yes. Open the meeting from the calendar, adjust the start or end time, and save the changes.
-
-**Do all advanced options require an upgraded account?**
-No. Most core options are available on a standard account. Only specific advanced controls require an upgrade, as noted in the Reference section.
